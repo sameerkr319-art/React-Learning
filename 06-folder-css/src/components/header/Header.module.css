@@ -1,0 +1,21 @@
+.head {
+  background-color: rgb(169, 192, 51);
+  width:fit-content;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 10px 20px;
+  display: flex;
+  justify-content:space-around;
+
+}
+
+
+.text{
+    text-decoration: underline;
+}
+
+.btn{
+
+    background-color: aqua;
+    border-radius: 20px;
+}

@@ -1,0 +1,32 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   color: aliceblue;
+}
+
+html, body {
+   height: 100%;
+   width: 100%;
+}
+
+body{
+  background-color: #212121;
+}
+
+
+div h1{
+  margin: 10px 10px;
+  
+}
+
+div button{
+  margin: 10px;
+  padding: 10px;
+  border: 1px;
+  border-radius: 20px;
+  color: rgb(255, 252, 252);
+  font-weight: bold;
+  background-color: gray;
+  
+}
